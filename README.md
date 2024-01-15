@@ -7,6 +7,6 @@ A stopwatch is another simple android project idea that will work the same as a 
 
 2.The User Interface with XML is Designed.
 
-3.Login and Signup Functionality is implemented with Java.
+3.Start,Stop and Reset Buttons are Designed.
 
 4.The app is tested.
